@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @TianaGabel
-- 👀 I’m interested in Mathematics and Computer vision.
-- 🌱 I’m currently taking online university courses at snhu towards a computer science degree.
--    I've learnt the basics in python, java, C++ and some assembly for the 6502 mircoprocessor.
+-  Hi, I’m @TianaGabel
+-  I’m interested in Mathematics and Databases
+-  I’m currently attending courses at Colorado State University towards a computer science Degree (Expected 2025).
+-  I've worked with Python, Java, MySql, and C++
 
 <!---
 TianaGabel/TianaGabel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
