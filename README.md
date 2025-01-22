@@ -1,5 +1,5 @@
 -  Hi, I’m @TianaGabel
--  Junior at Colorado State University pursuing a computer science degree with a minor in data science (Expected 2025).
+-  Senior at Colorado State University pursuing a computer science degree with a minor in data science (Expected 2025).
 -  I've worked with Python, Java, MySql, and C++
 
 <!---
